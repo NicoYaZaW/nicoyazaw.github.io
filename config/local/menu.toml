@@ -1,0 +1,54 @@
+# Configure main menu and social menu
+#[[main]]
+#identifier = "home"
+#name = "Home"
+#url = "/"
+#[main.params]
+#icon = "home"
+#newtab = true
+
+[[social]]
+    identifier = "github"
+    name = "GitHub"
+    url = "https://github.com/NicoYaZaW"
+[social.params]
+    icon = "brand-github"
+
+[[social]]
+    identifier = "Bilibili"
+    name = "Bilibili"
+    url = "https://space.bilibili.com/7760335"
+[social.params]
+    icon = "brand-bilibili"
+
+# --- 以下是你新增的管理工具 ---
+
+[[social]]
+    identifier = "alist"
+    name = "文件管理"
+    url = "/openlist/"
+[social.params]
+    icon = "folder"
+
+[[social]]
+    identifier = "ddns-go"
+    name = "域名解析"
+    url = "/ddns-go/"
+[social.params]
+    icon = "world-www"
+
+[[social]]
+    identifier = "clash"
+    name = "网络工具"
+    url = "/clash/"
+[social.params]
+    icon = "rocket"
+
+[[social]]
+    identifier = "openwrt"
+    name = "路由后台"
+    url = "/openwrt/"
+[social.params]
+    icon = "router"
+
+
