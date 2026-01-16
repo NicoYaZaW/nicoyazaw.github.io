@@ -76,8 +76,8 @@ enabled = true
 
 ## Comments
 [comments]
-enabled = true
-provider = "disqus"
+enabled = false
+provider = "twikoo"
 
 [comments.disqusjs]
 shortname = ""
@@ -120,7 +120,7 @@ admin = "Admin"
 envId = ""
 region = ""
 path = ""
-lang = ""
+lang = "zh-CN"
 
 [comments.cactus]
 defaultHomeserverUrl = "https://matrix.cactus.chat:8448"
