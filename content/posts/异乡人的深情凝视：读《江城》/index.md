@@ -7,6 +7,16 @@ math: false
 license: false
 hidden: false
 comments: false
+categories:
+    - 读书笔记
+    - 文化观察
+tags:
+    - 非虚构
+    - 中国叙事
+    - 时代记忆
+    - 何伟
+    - 三峡
+    - 90年代
 ---
 ## 一、初遇
 
